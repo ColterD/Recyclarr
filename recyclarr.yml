@@ -1,5 +1,5 @@
 sonarr:
-  main:
+  sonarr-main:
     base_url: secret
     api_key: secret
 
@@ -387,7 +387,7 @@ sonarr:
           - name: Anime
 
 radarr:
-  main:
+  radarr-main:
     base_url: secret
     api_key: secret
 
